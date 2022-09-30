@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestOperatorsOverloading" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-26T09:45:40" hostname="is-0068" time="0.006">
+  <properties/>
+  <testcase name="testOneMonth" classname="TestOperatorsOverloading" time="0.005"/>
+  <testcase name="testAddOneTimeInterval" classname="TestOperatorsOverloading" time="0.0"/>
+  <testcase name="testMonthChange" classname="TestOperatorsOverloading" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
